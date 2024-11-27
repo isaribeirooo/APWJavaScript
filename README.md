@@ -1,4 +1,4 @@
-# Projeto-de-Desenvolvimento-Prof.Bruno-Zolotareff-dos-Santos
+# Projeto de Desenvolvimento-Prof.Bruno Zolotareff dos Santos
 
 Nomes dos integrantes:
 Ana Beatriz Gilarde Portela,
