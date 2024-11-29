@@ -9,3 +9,6 @@ João Paulo Souza Azevedo
 
 https://colab.research.google.com/drive/1LfN-wWRUogCWe0rxMWw2V7VY7VDcSdWL#scrollTo=T-fKS7Wfqiq2
 link para o nosso código em python.
+
+https://trello.com/b/UKAEkE5V/bolo-de-cenoura
+link do nosso Trello
